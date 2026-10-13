@@ -1,6 +1,6 @@
 # Tutorial 01: How Neural Networks "See" Images
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/TF_Visual_Deep_Dive_How_NNs_See.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/01_how_neural_networks_see_images.ipynb)
 
 In this foundational deep-dive tutorial, we peel back the high-level abstractions of deep learning vision libraries (`Conv2D`, `MaxPool2D`) to examine the underlying mathematical and visual mechanisms of computer vision.
 
@@ -41,7 +41,7 @@ In this foundational deep-dive tutorial, we peel back the high-level abstraction
 ### Run Online via Google Colab
 Click the badge below to run the notebook on a cloud GPU with zero installation required:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/TF_Visual_Deep_Dive_How_NNs_See.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/01_how_neural_networks_see_images.ipynb)
 
 ### Run Locally
 ```bash
@@ -53,5 +53,5 @@ cd computer-vision-tutorials
 pip install -r requirements.txt
 
 # Launch Jupyter
-jupyter notebook tutorials/01_how_neural_networks_see/TF_Visual_Deep_Dive_How_NNs_See.ipynb
+jupyter notebook tutorials/01_how_neural_networks_see/01_how_neural_networks_see_images.ipynb
 ```

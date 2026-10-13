@@ -1,6 +1,6 @@
 # 👁️ Computer Vision Tutorials: From Pixels to Deep Representations
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/TF_Visual_Deep_Dive_How_NNs_See.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/01_how_neural_networks_see_images.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
@@ -13,7 +13,7 @@ An intuitive, pedagogical, and visual tutorial series exploring how neural netwo
 
 | # | Tutorial | Topic & Highlights | Cloud Runner |
 | :---: | :--- | :--- | :---: |
-| **01** | [**How Neural Networks "See" Images**](tutorials/01_how_neural_networks_see/README.md) | Channels (1-ch grayscale, 2-ch vector fields, 3-ch RGB), pairwise channel comparison, convolutions from scratch in NumPy vs TensorFlow, patches, padding, pooling, and feature hierarchies. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/TF_Visual_Deep_Dive_How_NNs_See.ipynb) |
+| **01** | [**How Neural Networks "See" Images**](tutorials/01_how_neural_networks_see/README.md) | Channels (1-ch grayscale, 2-ch vector fields, 3-ch RGB), pairwise channel comparison, convolutions from scratch in NumPy vs TensorFlow, patches, padding, pooling, and feature hierarchies. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Armstrong66/computer-vision-tutorials/blob/main/tutorials/01_how_neural_networks_see/01_how_neural_networks_see_images.ipynb) |
 
 ---
 
